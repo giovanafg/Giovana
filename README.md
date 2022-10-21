@@ -1,7 +1,7 @@
  <h1> Olá, seja bem-vindo(a) ao meu perfil!</h1>
  
  <p>Atualmente estou fazendo o curso de Análise e Desenvolvimento de Sistemas</p>
- <p>Estou estudando HTML, CSS, Javascript e Python</p>
+ <p>Estou estudando HTML, CSS, Javascript e Java</p>
  <p>No momento  estou procurando por estágio, para aperfeiçoar ainda mais os meus conhecimentos</p>
  <p>Pronomes: ela/dela</p>
 
@@ -17,3 +17,4 @@
   <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
+ 
