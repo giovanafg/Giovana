@@ -1,9 +1,9 @@
  <h1> Olá, seja bem-vindo(a) ao meu perfil!</h1>
  
  <p>Atualmente estou fazendo o curso de Análise e Desenvolvimento de Sistemas</p>
- <p>Estou estudando HTML, CSS e Javascript</p>
+ <p>Estou estudando HTML, CSS e JavaScript.</p>
  <p>No momento  estou procurando por estágio, para aperfeiçoar ainda mais os meus conhecimentos</p>
- <p>Pronomes: ela/dela</p>
+ <p>Fique á vontade para dar uma olhada nos meus repositórios :)</p>
 
 <div style="display: flex, flex-direction: row">
   <a href="https://github.com/giovanafg">
